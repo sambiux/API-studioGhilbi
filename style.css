@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+    margin: 1rem;
+    background-color: #fafafa;
+  }
+  nav {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 1rem;
+  }
+  button {
+    background-color: #5c6bc0;
+    color: white;
+    border: none;
+    padding: 8px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  button:hover {
+    background-color: #3f51b5;
+  }
+  .film {
+    cursor: pointer;
+    color: blue;
+    margin-bottom: 8px;
+  }
+  #details {
+    margin-top: 2rem;
+  }
+  .poster {
+    max-width: 200px;
+    margin-bottom: 10px;
+  }
+  
