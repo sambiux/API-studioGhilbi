@@ -1,5 +1,9 @@
 # 🌸 Proyecto: Consumo de API Studio Ghibli
 
+
+![Banner del proyecto](./banner.png)
+
+
 ## 📖 Descripción general
 Este proyecto consiste en una aplicación web que consume la **API pública de Studio Ghibli** para mostrar información sobre las películas del estudio.  
 Fue desarrollada utilizando **HTML, CSS y JavaScript puro (sin frameworks)**, con el objetivo de aplicar los conceptos básicos de consumo de APIs, manipulación del DOM, y almacenamiento local (`localStorage`).
